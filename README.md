@@ -2,6 +2,13 @@
 
 A full stack supply chain planning application that combines a React dashboard with a Python machine learning backend.
 
+## Dashboard Preview
+
+![DemandFlow Dashboard]
+(dashboard-preview-1.png)
+(dashboard-preview-2.png)
+
+
 ## Stack
 
 Frontend:
