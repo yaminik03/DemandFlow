@@ -4,9 +4,9 @@ A full stack supply chain planning application that combines a React dashboard w
 
 ## Dashboard Preview
 
-![DemandFlow Dashboard]
-(dashboard-preview-1.png)
-(dashboard-preview-2.png)
+![DemandFlow Dashboard](dashboard-preview-1.png)
+
+![DemandFlow Dashboard](dashboard-preview-2.png)
 
 
 ## Stack
